@@ -1,0 +1,16 @@
+.title-row {
+    width: 93%;
+    margin: auto;
+}
+
+#logo {
+    /* font-size: 50px; */
+    white-space: nowrap;
+
+}
+
+
+.title-row p {
+    height: 100%;
+    margin-top: 10px;
+}

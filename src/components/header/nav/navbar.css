@@ -1,0 +1,15 @@
+nav {
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-color: rgb(192, 192, 192);
+
+}
+
+@media (max-width: 700px) {
+
+    .justify-content-around {
+        flex-direction: column;
+    }
+}

@@ -1,5 +1,5 @@
 header {
-    width: 80%;
+    width: 88%;
     margin: 0 auto;
 }
 
@@ -8,11 +8,12 @@ header {
     font-size: 2.25rem;
     font-weight: bold;
 }
+
 .blog-header-logo:hover {
     text-decoration: none;
     color: inherit
 }
 
 .text-dark {
-    color: #343a40!important;
+    color: #343a40 !important;
 }
